@@ -1,5 +1,5 @@
 //RooterNavigator
-import {createAppContainer,createStackNavigator} from 'react-navigation';
+import {createAppContainer,createStackNavigator,createSwitchNavigator} from 'react-navigation';
 import LoginScreen from './LoginScreen'; 
 import MainNavigator from './MainNavigator';
 import DetailScreen from './DetailScreen';

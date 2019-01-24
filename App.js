@@ -9,8 +9,8 @@
 import React, {Component} from 'react';
 import {StyleSheet, Text, View} from 'react-native';
 //import Navigation from './app/screens/MainNavigator';
-//import Navigation from './app/screens/RooterNavigater';
-import Navigation from './app/screens/DrawNavigator';
+import Navigation from './app/screens/RooterNavigater';
+//import Navigation from './app/screens/DrawNavigator';
 
 type Props = {};
 export default class App extends Component<Props> {
